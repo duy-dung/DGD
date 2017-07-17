@@ -1,0 +1,59 @@
+<resources>
+    <dimen name="tab_name_text_size">11sp</dimen>
+    <dimen name="tab_icon_size">30dp</dimen>
+
+    <dimen name="dimen_negative_0.5x">-5dp</dimen>
+    <dimen name="dimen_negative_1.0x">-10dp</dimen>
+
+    <dimen name="dimen_0.02x">0.2dp</dimen>
+    <dimen name="dimen_0.03x">0.3dp</dimen>
+    <dimen name="dimen_0.05x">0.5dp</dimen>
+    <dimen name="dimen_0.1x">1dp</dimen>
+    <dimen name="dimen_0.2x">2dp</dimen>
+    <dimen name="dimen_0.25x">2.5dp</dimen>
+    <dimen name="dimen_0.3x">3dp</dimen>
+    <dimen name="dimen_0.35x">3.5dp</dimen>
+    <dimen name="dimen_0.4x">4dp</dimen>
+    <dimen name="dimen_0.5x">5dp</dimen>
+    <dimen name="dimen_0.6x">6dp</dimen>
+    <dimen name="dimen_0.7x">7dp</dimen>
+    <dimen name="dimen_0.8x">8dp</dimen>
+    <dimen name="dimen_1.0x">10dp</dimen>
+    <dimen name="dimen_1.2x">12dp</dimen>
+    <dimen name="dimen_1.5x">15dp</dimen>
+    <dimen name="dimen_1.8x">18dp</dimen>
+    <dimen name="dimen_2.0x">20dp</dimen>
+    <dimen name="dimen_2.2x">22dp</dimen>
+    <dimen name="dimen_2.5x">25dp</dimen>
+    <dimen name="dimen_3.0x">30dp</dimen>
+    <dimen name="dimen_3.5x">35dp</dimen>
+    <dimen name="dimen_4.0x">40dp</dimen>
+    <dimen name="dimen_4.5x">45dp</dimen>
+    <dimen name="dimen_5.0x">50dp</dimen>
+    <dimen name="dimen_5.5x">55dp</dimen>
+    <dimen name="dimen_9.0x">90dp</dimen>
+
+    <dimen name="text_size_8">8sp</dimen>
+    <dimen name="text_size_9">9sp</dimen>
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_19">19sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_21">21sp</dimen>
+    <dimen name="text_size_22">22sp</dimen>
+    <dimen name="text_size_23">23sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_25">25sp</dimen>
+    <dimen name="text_size_26">26sp</dimen>
+    <dimen name="text_size_27">27sp</dimen>
+    <dimen name="text_size_30">30sp</dimen>
+
+
+</resources>

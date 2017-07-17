@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.example.bum.dgd.fonts.CustomTextView
+        android:layout_width="match_parent"
+        android:text="@string/contribute_dialog"
+        android:gravity="center"
+        android:padding="@dimen/dimen_0.5x"
+        android:textSize="@dimen/dimen_2.5x"
+        android:layout_height="wrap_content" />
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.example.bum.dgd.fonts.CustomEdittex
+            android:hint="@string/tieng_viet"
+            style="@style/edt_contribute"/>
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.example.bum.dgd.fonts.CustomEdittex
+            android:hint="@string/tieng_anh"
+            style="@style/edt_contribute" />
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.example.bum.dgd.fonts.CustomEdittex
+            android:hint="@string/note_contribute"
+            style="@style/edt_contribute"/>
+    </android.support.design.widget.TextInputLayout>
+    <LinearLayout
+        android:weightSum="2"
+        android:padding="@dimen/dimen_1.0x"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.example.bum.dgd.fonts.CustomTextView
+            android:id="@+id/tv_contribute_ok"
+            android:layout_marginRight="@dimen/dimen_1.5x"
+            android:background="@color/color_9"
+            android:text="@string/ok"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:padding="@dimen/dimen_1.0x"
+            android:textSize="@dimen/text_size_18"
+            android:layout_width="0dp"
+            app:typeface="bold"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <com.example.bum.dgd.fonts.CustomTextView
+            android:id="@+id/tv_contribute_cancel"
+            android:background="@color/color_9"
+            android:textColor="@color/white"
+            android:text="@string/cancel"
+            android:gravity="center"
+            android:padding="@dimen/dimen_1.0x"
+            android:textSize="@dimen/text_size_18"
+            android:layout_width="0dp"
+            app:typeface="bold"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+</LinearLayout>
